@@ -95,3 +95,7 @@ MIT License (or your preferred license)
 
 ## Author
 andrepradika
+
+sh```
+yt-dlp --write-auto-subs --skip-download --sleep-requests 1.25 --min-sleep-interval 60 --max-sleep-interval 90 -o "%(uploader)s/%(title)s.%(ext)s" "https://www.youtube.com/@MyFirstMillionPod"
+```
